@@ -14,8 +14,9 @@
 <!--- 🥅 2020 Goals: Contribute more to Open Source projects --->
 - 📱 +918100787003
 
-
   <img align="left" alt="Vikash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=viktech2&show_icons=true&hide_border=true" />
+  
+  <img align="left" alt="Vikash's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viktech2&langs_count=10&layout=compact" />
  
 
 [instagram]: https://instagram.com/viktech2
