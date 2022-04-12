@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viktech2" alt="vikash" /> </p> 
 
-## I'm a software development engineer!
+## I'm a Software Development Engineer!
 
 - 🔭 I’m currently working on JavaScript, NodeJs projects (MEAN), MySQL, Cloud Computing (AWS, GCP) etc.!
 
