@@ -6,7 +6,7 @@
 
 ## I'm a Software Development Engineer!
 
-- 🔭 I’m currently working on JavaScript, NodeJs projects (MEAN), MySQL, Cloud Computing (AWS, GCP) etc.!
+- 🔭 I’m currently working on JavaScript, NodeJs projects (MEAN), Cloud, DevOps, AWS, Kubernetes etc.!
 
 - 📫 Reach out to me 👉
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vikshaw/)](https://www.linkedin.com/in/vikshaw/) 
